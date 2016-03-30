@@ -3,6 +3,7 @@
 - [Android](#2)
 - [IOS](#3)
 - [InfoSecurity](#4)
+- [Java](#5)
 <h2 id="1">Full</h2>
 - 开发者头条 [http://toutiao.io/](http://toutiao.io/)
 - InfoQ促进软件开发领域知识与创新的传播 [http://www.infoq.com/cn/](http://www.infoq.com/cn/)
@@ -31,3 +32,7 @@
 <h2 id="4">InfoSecurity</h2>
 - 关注黑客与极客 [http://www.freebuf.com/](http://www.freebuf.com/)
 - 乌云知识库 [http://drops.wooyun.org/](http://drops.wooyun.org/)
+<h2 id="5">Java</h2>
+- 并发编程网[http://ifeve.com/](http://ifeve.com/)
+- SwaggerUI[http://swagger.io/](http://swagger.io/)
+- 开涛的博客[http://jinnianshilongnian.iteye.com/](http://jinnianshilongnian.iteye.com/)
