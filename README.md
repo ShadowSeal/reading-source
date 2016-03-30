@@ -7,6 +7,7 @@
 - 开发者头条 [http://toutiao.io/](http://toutiao.io/)
 - InfoQ促进软件开发领域知识与创新的传播 [http://www.infoq.com/cn/](http://www.infoq.com/cn/)
 - 湾区日报 [https://wanqu.co/](https://wanqu.co/)
+- Hacker News [https://news.ycombinator.com/](https://news.ycombinator.com/)
 <h2 id="2">Android</h2> 
 - 任玉刚博客 [http://blog.csdn.net/singwhatiwanna/](http://blog.csdn.net/singwhatiwanna/)
 - 罗升阳博客 [http://blog.csdn.net/Luoshengyang/article/list/1](http://blog.csdn.net/Luoshengyang/article/list/1)
@@ -29,3 +30,4 @@
 - 虾神的博客 [http://blog.rpplusplus.me/](http://blog.rpplusplus.me/)
 <h2 id="4">InfoSecurity</h2>
 - 关注黑客与极客 [http://www.freebuf.com/](http://www.freebuf.com/)
+- 乌云知识库 [http://drops.wooyun.org/](http://drops.wooyun.org/)
