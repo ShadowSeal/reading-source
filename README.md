@@ -1,7 +1,7 @@
 <h1 id="0">目录</h1>
 - [Full](#1)
 - [Android](#2)
-- [IOS](#3)
+- [iOS](#3)
 - [InfoSecurity](#4)
 - [Java](#5)
 <h2 id="1">Full</h2>
@@ -29,6 +29,9 @@
 - 提供iOS各种开发教程的网站 [https://www.raywenderlich.com/](https://www.raywenderlich.com/)
 - iOS酷炫界面开发 [http://subjc.com/](http://subjc.com/)
 - 虾神的博客 [http://blog.rpplusplus.me/](http://blog.rpplusplus.me/)
+- NSHipster [http://nshipster.cn/](http://nshipster.cn/)
+- Swifter - Swift 必备 tips [http://swifter.tips/](http://swifter.tips/)
+- 阿🐔的博客 [http://rdd7.com/](http://rdd7.com)
 <h2 id="4">InfoSecurity</h2>
 - 关注黑客与极客 [http://www.freebuf.com/](http://www.freebuf.com/)
 - 乌云知识库 [http://drops.wooyun.org/](http://drops.wooyun.org/)
