@@ -9,6 +9,8 @@
 - InfoQ促进软件开发领域知识与创新的传播 [http://www.infoq.com/cn/](http://www.infoq.com/cn/)
 - 湾区日报 [https://wanqu.co/](https://wanqu.co/)
 - Hacker News [https://news.ycombinator.com/](https://news.ycombinator.com/)
+- scotthyoung [https://www.scotthyoung.com/blog/](https://www.scotthyoung.com/blog/)
+- mpwang的blog [http://mpwang.github.io/](http://mpwang.github.io/)
 <h2 id="2">Android</h2> 
 - 任玉刚博客 [http://blog.csdn.net/singwhatiwanna/](http://blog.csdn.net/singwhatiwanna/)
 - 罗升阳博客 [http://blog.csdn.net/Luoshengyang/article/list/1](http://blog.csdn.net/Luoshengyang/article/list/1)
